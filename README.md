@@ -1,7 +1,7 @@
 # twitter-geolocation
 
 The program predicts geolocation from where the twitter message has been sent based only on the text of the message. An output confidence score is provided.
-The algorithm divides the world on 400 areas and assigns geolabelы to tweets based on bag-of-words approach.
+The algorithm divides the world on 400 areas and assigns geolabels to tweets based on bag-of-words approach.
 
 GitHub doesn't load output of the cells so if you just need to quickly browse through the program you may do it here.
 https://nbviewer.org/github/daniil-chepela/twitter-geolocation/blob/main/Geotagging_identify_relevant_tweets.ipynb
